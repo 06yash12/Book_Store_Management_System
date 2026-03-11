@@ -131,14 +131,11 @@ This project serves as a foundation for **MetroReads** - a multi-city digital li
 
 The goal is to make books accessible to everyone while simplifying library management for staff.
 
-## Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Improve documentation
-
 ---
 
 Built as a learning project to understand full-stack development with the MERN stack.
+
+---
+<div align="center">
+  <h3>Thank you for visiting our repository!</h3>
+</div>
