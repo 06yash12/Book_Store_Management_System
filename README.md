@@ -136,6 +136,6 @@ The goal is to make books accessible to everyone while simplifying library manag
 Built as a learning project to understand full-stack development with the MERN stack.
 
 ---
-<div align="center">
-  <h3>Thank you for visiting our repository!</h3>
-</div>
+<p align="center">
+  <strong>Thank you for reviewing this project - Feedbacks are always welcome. </strong><br/>
+</p>
