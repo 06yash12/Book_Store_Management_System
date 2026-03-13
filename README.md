@@ -1,6 +1,6 @@
 # Book Store - MERN Learning Project
 
-A simple, clean book management application built while learning the MERN stack. This project demonstrates full-stack development fundamentals with MongoDB, Express, React, and Node.js.
+A simple, clean book management application built while learning the MERN stack. This project demonstrates full-stack development fundamentals with MongoDB, Express, React and Node.js.
 
 ## What It Does
 
@@ -16,12 +16,6 @@ Manage your book collection with complete CRUD operations:
 **Frontend:** React, React Router, Axios, Tailwind CSS, Vite  
 **Backend:** Node.js, Express, MongoDB, Mongoose  
 **Development:** Nodemon for hot reloading
-
-## Prerequisites
-
-- Node.js (v18 or higher)
-- MongoDB (v6 or higher)
-- npm package manager
 
 ## Installation
 
@@ -122,7 +116,7 @@ Modify these values if you need different port or database settings.
 This project serves as a foundation for **MetroReads** - a multi-city digital library platform that will modernize library operations across India. The vision includes:
 
 - Multi-city library network with centralized management
-- Role-based access for Admins, Librarians, and Members
+- Role-based access for Admins, Librarians and Members
 - Automated book lifecycle: Request → Approve → Issue → Return
 - Time-bound QR codes for secure book pickup
 - Real-time book tracking and overdue management
